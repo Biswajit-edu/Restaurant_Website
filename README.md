@@ -1,8 +1,8 @@
-# React + Vite
+# A Restaurant Website Created with ReactJS and TailwindCSS
+Ignore the github/workflows files.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![page1](https://github.com/Biswajit-edu/Restaurant_Website/assets/111083968/d39fa087-f9a3-45c0-9fdc-107096697dcf)
+![page4](https://github.com/Biswajit-edu/Restaurant_Website/assets/111083968/bd65cfff-c1b5-400a-9f36-e1102a8da41a)
+![page2](https://github.com/Biswajit-edu/Restaurant_Website/assets/111083968/486994f0-098f-4e36-83ab-5367720eac70)
+![page3](https://github.com/Biswajit-edu/Restaurant_Website/assets/111083968/136f3863-040a-46ec-b049-219dc923aac0)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
